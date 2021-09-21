@@ -6,5 +6,5 @@ Add these two files anywhere in your ROOT macro path (usually set in your <tt>~.
 
 <pre>
 gROOT->LoadMacro("ECCEStyle.C");
-SetsECCEStyle();
+SetECCEStyle();
 <pre>
