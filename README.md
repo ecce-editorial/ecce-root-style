@@ -2,7 +2,7 @@
 
 ECCE ROOT style, based on sPHENIX, adapted from ATLAS Style
 
-Add these two files anywhere in your ROOT macro path, and add this to your .rootlogon.C
+Add these two files anywhere in your ROOT macro path (usually set in your <pre>~.rootrc</pre>), and add this to your <pre>.rootlogon.C</pre>:
 
 <pre>
 gROOT->LoadMacro("ECCEStyle.C");
